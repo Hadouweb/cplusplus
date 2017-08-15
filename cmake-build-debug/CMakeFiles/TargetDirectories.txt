@@ -1,0 +1,3 @@
+/Users/nle-bret/projects/cplusplus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nle-bret/projects/cplusplus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nle-bret/projects/cplusplus/cmake-build-debug/CMakeFiles/cplusplus.dir
